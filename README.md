@@ -1,4 +1,6 @@
 # Email-Marketing-Analysis
+![image](https://user-images.githubusercontent.com/91775600/152640117-c2320d36-eea1-43cc-aef6-963b088874b7.png)
+
 
 Over half of the entire planet uses email right now. The mass adoption of email makes it the perfect channel for your marketing. In today’s hyper-digital environment, it's a safe bet that everyone you come across, and everyone who’s in your target audience, use email.
 Unlike other marketing channels like print or broadcasting, email gives you a direct line of two-way communication with your target audience.
